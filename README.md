@@ -1,7 +1,7 @@
-#Uber Ride Pricing Analysis and Regression Model
+# Uber Ride Pricing Analysis and Regression Model
 This project analyzes Uber ride data from New York City (2009–2015) to understand fare patterns and build a simple predictive model for weekend prices. The dataset was sourced from Kaggle, and Python was used for data cleaning, analysis, and visualization.
 
-##Project Goals:
+## Project Goals:
 
 Analyze how average fares change depending on the time of day
 
